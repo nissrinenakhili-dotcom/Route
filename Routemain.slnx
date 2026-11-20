@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Routemain.vcxproj" Id="120d94ba-a86e-412f-97bc-b6f507e68e58" />
+</Solution>
